@@ -1,4 +1,4 @@
-title = "Vedant Mhatre's blog"
+title = "Vedant Mhatre"
 baseURL = 'https://vedant-mhatre.github.io'
 
 # This is what goes in <html lang="">
@@ -90,7 +90,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Vedant Mhatre"
   name = "Vedant Mhatre"
-  # description = "Vedant Mhatre's blog"
+  description = "Software Engineer / Tinkerer / Absurdist"
 
 # Allow to override webmanifest options
 [params.webmanifest]
