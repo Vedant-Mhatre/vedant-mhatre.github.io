@@ -4,9 +4,11 @@ description: "Vedant Mhatre's blog"
 author: "Vedant Mhatre"
 ---
 
-Software engineer who wants to solve real world problems using technology. Currently, working at [Hiver](https://hiverhq.com/).
+A software engineer who wants to solve real-world problems using technology. Currently, working at [Hiver](https://hiverhq.com/).
 
-Started my journey in 2014 by tinkering around linux, android, custom android kernels and frameworks to optimise OS. Over the next few years explored various domains like cyber security, web development, backend engineering and DevOps.
+Started my journey in 2014 by experimenting with Linux and Android. Over the next few years explored various domains like cyber security, backend engineering, and DevOps.
+
+Currently focusing on backend engineering and DevOps.
 
 ### Contact me
 
