@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare's Insightful Bytes"
 date: 2023-08-09T19:36:07+05:30
-draft: false
+draft: true
 ---
 
 Whenever I find myself surfing the web and craving some deep technical insights, Cloudflare's blog is my go-to spot. There's just something about the way they handle topics, from the simple to the complex, that keeps me coming back for more.
