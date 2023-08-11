@@ -113,7 +113,6 @@ url = "https://github.com/Vedant-Mhatre"
 name = "twitter"
 url = "https://twitter.com/VedantMhatre19"
 
-# [[params.socialIcons]]
-# name = "Rss"
-# url = "index.xml"
-
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/vedant-mhatre/"
