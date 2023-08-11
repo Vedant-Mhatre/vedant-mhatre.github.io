@@ -57,7 +57,7 @@
 
   .post-item-date {
     min-width: 96px;
-    color: $black;
+    color: $text-link-blue;
 
     @include media-query($on-mobile) {
       font-size: 16px;
