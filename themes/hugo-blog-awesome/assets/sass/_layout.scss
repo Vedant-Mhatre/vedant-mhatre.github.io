@@ -57,7 +57,7 @@
 
   .post-item-date {
     min-width: 96px;
-    color: $text-link-blue;
+    color: $black;
 
     @include media-query($on-mobile) {
       font-size: 16px;
@@ -73,7 +73,7 @@
     letter-spacing: 0.1px;
 
     a {
-      color: $text-base-color;
+      color: $text-link-blue;
       transition: all 150ms ease-in 0s;
 
       &:hover,
