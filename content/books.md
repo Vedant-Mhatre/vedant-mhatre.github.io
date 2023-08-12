@@ -4,7 +4,7 @@ description: "Vedant Mhatre's blog"
 author: "Vedant Mhatre"
 ---
 
-I like to read books in my free time here are some of them that I recommend.
+I enjoy reading books in my free time, and here are a few I recommend.
 
 - <a href="https://www.amazon.in/Zero-One-Start-Build-Future/dp/0753555190/" target="_blank" rel="noopener noreferrer">Zero to One</a>
 - <a href="https://www.amazon.in/Hard-Thing-about-Building-Business/dp/0062273205/" target="_blank" rel="noopener noreferrer">The Hard Thing about Hard Things</a>
