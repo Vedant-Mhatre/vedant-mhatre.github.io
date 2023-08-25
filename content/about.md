@@ -10,7 +10,9 @@ Started my journey in 2014 by experimenting with Linux and Android. Over the nex
 
 Currently focusing on backend engineering and DevOps.
 
-### Contact me
+Apart from tech stuff, I like to play poker, table tennis, travel, watch TV shows and movies.
+
+## Contact me
 
 - [Linkedin](https://www.linkedin.com/in/vedant-mhatre/)
 - [GitHub](https://github.com/Vedant-Mhatre/)
