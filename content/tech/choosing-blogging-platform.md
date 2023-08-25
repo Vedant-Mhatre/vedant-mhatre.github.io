@@ -38,7 +38,9 @@ Finally found Hashnode which had multiple features, perfectly suited to my needs
 4. Every article is shared with Hashnode's dev community (Bonus)
 5. In-house newsletter service (Bonus)
 
-Also, there were option managed options like [dev.to](https://dev.to/) and [Medium](https://medium.com/), but I wanted my articles to be free to read for everyone, didn't want annoying paywalls/ads and wanted to have a blog on my personal domain, hence I didn't try them out.
+Also, there were managed options like [dev.to](https://dev.to/) and [Medium](https://medium.com/), but I wanted my articles to be free to read for everyone, didn't want annoying paywalls/ads and wanted the option to have a blog on my personal domain, hence I didn't try them out.
+
+The blog is available here:: [https://vedant-mhatre.hashnode.dev](https://vedant-mhatre.hashnode.dev)
 
 ## Conclusion
 
