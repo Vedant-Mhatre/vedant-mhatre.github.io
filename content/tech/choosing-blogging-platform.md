@@ -40,10 +40,10 @@ Finally found Hashnode which had multiple features, perfectly suited to my needs
 
 Also, there were managed options like [dev.to](https://dev.to/) and [Medium](https://medium.com/), but I wanted my articles to be free to read for everyone, didn't want annoying paywalls/ads and wanted the option to have a blog on my personal domain, hence I didn't try them out.
 
-The blog is available here:: [https://vedant-mhatre.hashnode.dev](https://vedant-mhatre.hashnode.dev)
+The blog is available here:: [https://vmhatre.com](https://vmhatre.com)
 
 ## Conclusion
 
 I am going to use Hashnode as my primary blog and have [the hugo blog](https://vedant-mhatre.github.io) as my backup, but won't be actively maintaining and improving it.
 
-Let's see how this new blog turns out and subscribe to my [newsletter](https://vedant-mhatre.hashnode.dev/newsletter) to stay updated!
+Let's see how this new blog turns out and subscribe to my [newsletter](https://vmhatre.com/newsletter) to stay updated!
